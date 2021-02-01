@@ -1,0 +1,84 @@
+{
+    "bg": "https://www.talkesport.com/wp-content/uploads/csgo-visibility-update-appears-to-reveal-opponents-through-walls.jpg",
+    "loading": "https://33.media.tumblr.com/4334cc1e55260bab657d74c281d04b8f/tumblr_ncdii24qUz1qhvd5so1_500.gif",
+    "title": "Quiz CS:GO",
+    "description": "Teste os seus conhecimentos sobre CS:GO",
+    "questions": [
+      {
+        "image": "https://media1.tenor.com/images/1cdf8000b8463456b8c871c33d9ddfc7/tenor.gif?itemid=4690411",
+        "title": "Qual o mapa mais famoso do CS:GO?",
+        "description": "Essa é pra aquecer hehe",
+        "answer": 3,
+        "alternatives": [
+          "Verdansk",
+          "Inferno",
+          "Train",
+          "Dust II"
+        ]
+      },
+      {
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/946203981942466481/CDE2831042D300068CAB4620E4044C75A368086D/",
+        "title": "Qual a arma mais cara do CS:GO?",
+        "description": "Terminando o aquecimento...",
+        "answer": 1,
+        "alternatives": [
+           "M4A1",
+           "AWP",
+           "AUG",
+           "Zeus"
+        ]
+      },
+      {
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/860607397915833764/7BD3B19AE448C21D6383FEFB9F5FF4757C56F831/",
+        "title": "Qual frase é falada pelo player nesse gif",
+        "description": "Sem consultar Youtube hehe",
+        "answer": 2,
+        "alternatives": [
+           "XITADO ATÉ OS DENTES",
+           "EU TENHO PROBLEMINHA",
+           "JÁ VAI BOLTZ?",
+           "OLHA O BICHO VINDO"
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/XVEImqv.gif?noredirect",
+        "title": "Quantos mundiais o Brasil tem no CS:GO",
+        "description": "Só para os fãs de carteirinha...",
+        "answer": 0,
+        "alternatives": [
+           "2",
+           "0",
+           "5",
+           "1"
+        ]
+      },
+      {
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/858352489481666825/05761BD5A05976FC947FE6BD625681AEBC493B50/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+        "title": "Qual jogador brasileiro é conhecido como professor?",
+        "description": "The Professor",
+        "answer": 1,
+        "alternatives": [
+           "Nesk",
+           "Fallen",
+           "V$M",
+           "Coldzera"
+        ]
+      }
+
+    ],
+    "external": [
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-marvel.omariosouto.vercel.app/"
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#005400",
+        "secondary": "#1C1814",
+        "mainBg": "#171B35",
+        "contrastText": "#FFFFFF",
+        "wrong": "#ff0000",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
